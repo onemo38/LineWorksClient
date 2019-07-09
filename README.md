@@ -1,6 +1,7 @@
 LineWorksClient for Python3
 ====
-Overview
+Tiny LINE WORKS Client for Python3
+
 ## Description
 This is a python client for LINE WORKS.
 In current implementation, you can initiate LINE WORKS client with JWT Token,
