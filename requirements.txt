@@ -17,7 +17,7 @@ mccabe==0.6.1
 numpy==1.16.4
 opencv-python==4.1.0.25
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.3.1
 python-dotenv==0.10.3
 pytz==2019.1
